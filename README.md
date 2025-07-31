@@ -15,4 +15,4 @@ This project focuses on predicting an individual's workclass (employment categor
 
 -Evaluation with accuracy, confusion matrices, and feature importance
 
--The final model achieves approximately 74–75% accuracy and identifies the most predictive features influencing employment type. This could help government agencies or labor economists better understand workforce patterns.
+-The final model achieves approximately 75–77% accuracy and identifies the most predictive features influencing employment type. This could help government agencies or labor economists better understand workforce patterns.
